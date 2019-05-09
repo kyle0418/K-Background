@@ -1,6 +1,6 @@
 *Mouse mapping*:  
 -   Click: Select picture  
--   Double click: show/hide thumbnails  
+-   Double click: Show/hide thumbnails  
 -   Right click: Exit the app
   
 *NOTE*:  
