@@ -4,4 +4,4 @@
 -   Right click: Exit the app
   
 **NOTE**:  
--   Disabled keyboard exit ("win" or "Alt+F4"), "Ctrl+Alt+Delete" is still available
+-   Disabled keyboard exit ("Win" or "Alt+F4"), "Ctrl+Alt+Delete" is still available
